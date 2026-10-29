@@ -1,0 +1,8 @@
+gymnasium[toy-text,classic-control,mujoco,atari]
+numpy
+scipy
+matplotlib
+tensorflow
+opencv-python
+tqdm
+ale-py
